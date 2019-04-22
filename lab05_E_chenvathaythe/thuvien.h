@@ -36,7 +36,7 @@ void themx_vaoa(DaySo a, int &n, int x, int k)
 
 
 	}
-	a[k] = x;
+	a[k+1] = x;
 	n++;
 	
 }

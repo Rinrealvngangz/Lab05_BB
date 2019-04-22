@@ -1,0 +1,7 @@
+﻿  program.cpp
+c:\users\tuanctk42\desktop\git\git-lab05_bb\lab05_bb\lab05_e_chenvathaythe\menu.h(57): warning C4129: 'm': unrecognized character escape sequence
+c:\users\tuanctk42\desktop\git\git-lab05_bb\lab05_bb\lab05_e_chenvathaythe\menu.h(67): warning C4129: 'm': unrecognized character escape sequence
+c:\users\tuanctk42\desktop\git\git-lab05_bb\lab05_bb\lab05_e_chenvathaythe\menu.h(36): warning C4101: 'kq': unreferenced local variable
+c:\users\tuanctk42\desktop\git\git-lab05_bb\lab05_bb\lab05_e_chenvathaythe\menu.h(39): warning C4101: 'nt': unreferenced local variable
+  lab05_E_chenvathaythe.vcxproj -> C:\Users\tuanctk42\Desktop\git\git-lab05_BB\Lab05_BB\lab05_E_chenvathaythe\Debug\lab05_E_chenvathaythe.exe
+  lab05_E_chenvathaythe.vcxproj -> C:\Users\tuanctk42\Desktop\git\git-lab05_BB\Lab05_BB\lab05_E_chenvathaythe\Debug\lab05_E_chenvathaythe.pdb (Full PDB)
